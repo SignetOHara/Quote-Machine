@@ -1,0 +1,11 @@
+@use '../../../global.scss' as *;
+
+.page {
+  background-color: $color;
+  color: $color;
+  font-family: 'Raleway', sans-serif;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

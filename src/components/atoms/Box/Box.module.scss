@@ -1,0 +1,10 @@
+@use '../../../global.scss' as *;
+
+.box {
+  border-radius: 5px;
+  max-width: 40rem;
+  background-color: $white;
+  padding: 2.5rem 3.125rem;
+  display: flex;
+  flex-direction: column;
+}

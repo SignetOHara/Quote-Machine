@@ -1,0 +1,6 @@
+@use '../../../global.scss' as *;
+
+.error {
+  color: $error;
+  font-weight: 600;
+}
